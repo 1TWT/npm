@@ -1,0 +1,17 @@
+crt + shift + c 快速选择
+Ctrl +alt +L 格式化代码
+Ctrl + U 打开页面源代码
+shift +右键打开powershow 界面
+document.querySelector('video').playbackRate = 10.0; 视频加速
+.getBoundingClientRect() 快速获取某个元素的坐表
+DOS命令获取本机IP地址ipconfig
+ctrl +alt +a 截屏
+shift+alt +s 录屏
+32920393
+20601720
+alt +L格式化
+alt+/注释
+alt+ z撤销注释
+Install-Package Newtonsoft.Json    json文件读取
+钢体才能碰撞检测
+pip install uiautomation
